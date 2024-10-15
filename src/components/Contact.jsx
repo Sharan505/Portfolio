@@ -53,7 +53,7 @@ function Contact() {
                     </form>
                     <p className="text-center">@Sharan M</p>
                     <div className="icons mt-4 d-flex gap-4 justify-content-center">
-                        <a id="linkedin" href="https://www.linkedin.com/in/sharan-muthuraja-b56173259" target="_blank" rel="noopener noreferrer">
+                        <a id="linkedin" href="https://www.linkedin.com/in/sharan-m-18274932b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BYfCsjSkXRCOLYSXYV58AKg%3D%3D" target="_blank" rel="noopener noreferrer">
                             <ion-icon name="logo-linkedin"></ion-icon>
                         </a>
                         <a id="whatsapp" href="https://wa.me/917540008788" target="_blank" rel="noopener noreferrer">
