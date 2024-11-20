@@ -3,7 +3,7 @@ import VanillaTilt from 'vanilla-tilt';
 import infoDocUI from './imgs/infodocUI.png';
 import skyFlyUI from './imgs/skyflyUI.png';
 import collegeUI from './imgs/collegeUI.png';
-import steamUI from './imgs/steamUI.png';
+import CGPAUI from './imgs/CGPAUI.png';
 
 function Project() {
     useEffect(() => {
@@ -36,16 +36,16 @@ function Project() {
                 </div>
             </div>
             <div className="row project-row"> 
-                <div className="col-md-9 col-sm-12 d-flex flex-column justify-content-center align-items-center text-center mt-4">
+                <div className="col-md-6 col-sm-12 d-flex flex-column justify-content-center align-items-center text-center mt-4">
                     <div className="card p-2 project-card">
                         <a href="https://ksrct.ac.in/" className='text-center' target='_blank'><img className='project-img rounded img-fluid' src={collegeUI} alt="collegeWebsiteUI" /></a>
                         <p className='h5 my-4'>KSRCT - College Official Webpage (Team)</p>
                     </div>
                 </div>
-                <div className="col-md-3 col-sm-12 d-flex justify-content-center align-items-center text-center mt-4">
+                <div className="col-md-6 col-sm-12 d-flex justify-content-center align-items-center text-center mt-4">
                     <div className="card p-2 project-card">
-                        <a href="#" className='text-center' target='_blank'><img className='project-img steamUI rounded img-fluid' src={steamUI} alt="steamCloneUI" /></a>
-                        <p className='h5 my-4'>Steam Clone</p>
+                        <a href="https://ksrct.ac.in/" className='text-center' target='_blank'><img className='project-img rounded img-fluid' src={CGPAUI} alt="collegeWebsiteUI" /></a>
+                        <p className='h5 my-4'>GPA Calculator</p>
                     </div>
                 </div>
             </div>
