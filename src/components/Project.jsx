@@ -44,7 +44,7 @@ function Project() {
                 </div>
                 <div className="col-md-6 col-sm-12 d-flex justify-content-center align-items-center text-center mt-4">
                     <div className="card p-2 project-card">
-                        <a href="https://ksrct.ac.in/" className='text-center' target='_blank'><img className='project-img rounded img-fluid' src={CGPAUI} alt="collegeWebsiteUI" /></a>
+                        <a href="https://cgpa-calculator-it.netlify.app/" className='text-center' target='_blank'><img className='project-img rounded img-fluid' src={CGPAUI} alt="collegeWebsiteUI" /></a>
                         <p className='h5 my-4'>GPA Calculator</p>
                     </div>
                 </div>
