@@ -3,6 +3,7 @@ import portraitImage from './imgs/potrait2.jpg';
 function ContentOne() {
     return (
         <div className="container mt-5">
+            <a href="https://drive.google.com/file/d/141OpAP3FbGmNXfEQ8G9cPAF5_-Fuxpuc/view?usp=sharing"><button className='btn btn-primary'>Click to view the video</button></a>
             <div className="row ps-3">
                 <div className="col-sm-12 col-md-7 text-white">
                     <h1 className="mt-5" style={{ fontSize: 'clamp(15px, 2vw, 3.5rem)' }}>Hello! My name is</h1>
