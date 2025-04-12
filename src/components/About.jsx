@@ -11,7 +11,7 @@ function About(){
                     <h1 className="text-white text-center ">About Me</h1> 
                     <p className="card-subtitle text-center">Creative and Passionate Techie</p>
                     <p className="about-me-text text-white mt-3">I'm from India, Tamil Nadu. I'm a Under Graduate Student and always <span className='text-info'> passionate</span> in my career. I'm a <span className='text-info'> Full Stack Developer </span>with creative mindset. <br /><br /> Often sitting infront my Laptop dashing the keyboard hoping something new I learn everyday. Always <span className='text-info'> motivated to learn something new!</span> <br /><br /> When I'm not programming, I love to play video games and spend time in social media.</p>
-                    <a href="https://drive.google.com/file/d/1Q_8M1RjXOXgJbGl7FP2quGlpQeeVoj4h/view?usp=sharing" className='text-decoration-none text-white border btn mt-3 CVButton align-self-start' target='_blank'>Download CV</a>
+                    <a href="https://drive.google.com/file/d/1TbSTgTNEGKdS1mi6-UKjDksAKThmWKc2/view?usp=sharing" className='text-decoration-none text-white border btn mt-3 CVButton align-self-start' target='_blank'>Portfolio</a>
                 </div>
             </div>
         </div>
