@@ -1,4 +1,4 @@
-import portraitImage from './imgs/potrait2.jpg'; 
+import portraitImage from './imgs/sharan3.jpg'; 
 
 function ContentOne() {
     return (
@@ -10,7 +10,7 @@ function ContentOne() {
                     <h1 className="myName" style={{ fontSize: 'clamp(3.5rem, 8vw, 7rem)' }}>Sharan M</h1>
                     <p className="h4" style={{ fontSize: 'clamp(30px, 3vw, 3rem)', background: 'radial-gradient(circle, rgba(124,219,255,1) 0%, rgba(0,14,255,1) 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', }}>Full Stack Developer</p>
                     <div className="icons mt-4 d-flex gap-4">
-                        <a id="linkedin" href="https://www.linkedin.com/in/sharan-muthuraja-b56173259" target="_blank" rel="noopener noreferrer">
+                        <a id="linkedin" href="https://www.linkedin.com/in/sharan-muthuraja/" target="_blank" rel="noopener noreferrer">
                             <ion-icon name="logo-linkedin"></ion-icon>
                         </a>
                         <a id="whatsapp" href="https://wa.me/917540008788" target="_blank" rel="noopener noreferrer">
